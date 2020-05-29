@@ -1,0 +1,63 @@
+*{
+	margin: 0px;
+	padding: 0px;
+    background: #FFEAEA;
+    margin: auto;
+}
+#contenedor{
+	width: 800px;
+	height: 800px;
+}
+h1{
+	text-align: center;
+	font-family: 'DM Mono';
+	color:#DB7093; 
+	text-decoration: underline;
+	text-shadow: 2px 1px 5px black;
+}
+h2{
+    color:#D2B4DE;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+p{
+	margin: 35px;
+	padding: 35px;
+	background:#EC7063;
+	border:solid;
+}
+img{
+	
+	width: 100px;
+	height: 150px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+h3{
+	color: violet;
+}
+ul{
+   margin: 7px;
+   padding: 7px;
+}
+a:hover{
+	color: #BDB76B;
+}
+.Sarampión:hover{
+   color: black;
+}
+.Viruela:hover{
+   color: #4682B4;
+}
+.Gripe:hover{
+   color: #F4A460;
+}
+.PesteNegra:hover{
+   color: black;
+}
+.VIH:hover{
+	color:#708090;
+}
